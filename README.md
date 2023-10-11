@@ -5,7 +5,7 @@ A Ecommerce Website made with React.js Framework.
 
 ## Demo
 
-https://reactjs-ecommerce-app.vercel.app/
+https://imaginative-hotteok-2453f0.netlify.app/
 
 ## Features
 
